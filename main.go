@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gitlab.ie.u-ryukyu.ac.jp/os/2022/e205741-fileWrite/fileWrite/all/OS/os2.1/fileWrite"
+	"github.com/Users/e205741/all/OS/os2.1/fileWrite"
 )
 
 func main() {
